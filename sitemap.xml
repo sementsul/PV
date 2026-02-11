@@ -3,27 +3,97 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
   <url>
     <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/</loc>
-    <lastmod>2026-02-07T00:37:51+03:00</lastmod>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/pss.html</loc>
-    <lastmod>2026-02-07T00:37:51+03:00</lastmod>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/biblia.html</loc>
-    <lastmod>2026-02-07T00:37:51+03:00</lastmod>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/statia.html</loc>
-    <lastmod>2026-02-07T00:37:51+03:00</lastmod>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/sipechat.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/seventh.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/pechati.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/ri.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/iz.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/da.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/vs.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/antiyahve.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/slz.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/vov.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/ss.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/index.html</loc>
-    <lastmod>2026-02-07T00:37:51+03:00</lastmod>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/efrat.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/th.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn----dtbedbac5bqehlwf5t.xn--p1ai/EiI.html</loc>
+    <lastmod>2026-02-11T20:19:11+03:00</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
